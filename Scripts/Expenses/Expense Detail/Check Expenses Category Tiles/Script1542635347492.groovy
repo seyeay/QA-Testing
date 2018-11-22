@@ -33,6 +33,8 @@ WS.sendRequest(findTestObject('APIs/Expenses API/Get Expenses Categories list'))
 
 Mobile.tap(findTestObject('APP/Expenses/Category Selector/Category Field 1'), 0)
 
+WS.sendRequest(findTestObject('APIs/Expenses API/Get Expenses Categories list'))
+
 Mobile.tap(findTestObject('APP/Expenses/Category Selector/Grocery Tile'), 0)
 
 Mobile.tap(findTestObject('APP/Expenses/Category Selector/Category Field 1'), 0)
