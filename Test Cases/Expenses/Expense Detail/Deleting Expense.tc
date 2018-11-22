@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete expense if there are expenses to delete. If none, add a manual expense and then delete it</description>
+   <name>Deleting Expense</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26885400-bfa5-47c2-865e-77a2f86d88fc</testCaseGuid>
+</TestCaseEntity>
